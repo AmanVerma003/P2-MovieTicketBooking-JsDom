@@ -1,6 +1,4 @@
- 
-
-  <h1>🎬 <strong>Movie Ticket Booking System – JavaScript & DOM Manipulation</strong></h1>
+ <h1>🎬 <strong>Movie Ticket Booking System – JavaScript & DOM Manipulation</strong></h1>
 
   <p>
     A dynamic and interactive movie ticket booking interface built using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>. 
