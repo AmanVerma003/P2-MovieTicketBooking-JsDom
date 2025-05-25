@@ -30,7 +30,7 @@ cd P2-MovieTicketBooking-JsDom
   </pre>
   <p>Now open <code>main.html</code> in your preferred web browser.</p>
 
-  <h2>📸 Screenshots</h2>
+  <h2>📸 Screenshot</h2>
   <p>
     <img src="https://github.com/user-attachments/assets/346f8139-ce40-4669-822d-83ee3de8acb5" alt="Screenshot">
   </p> 
